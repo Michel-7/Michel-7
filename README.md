@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michel Aoun</h1>
 <h3 align="center">A passionate Full Stack Developer Based in Lebanon</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michel-7&label=Profile%20views&color=0e75b6&style=flat" alt="michel-7" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michel-7" alt="michel-7" /></a> </p>
 
 - 👨‍💻 My Personal Portfolio Where I showcase my Skills [https://michelaoun.vercel.app/](https://michelaoun.vercel.app/)
